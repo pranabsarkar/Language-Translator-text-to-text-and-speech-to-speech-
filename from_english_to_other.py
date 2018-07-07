@@ -192,8 +192,7 @@ class tt:
         qui()
 
 
-    def data_man(self):
-        print("hsh")
+
 
 
 def qui():
