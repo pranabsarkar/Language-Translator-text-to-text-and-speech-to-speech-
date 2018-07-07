@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 ABOUT THE PROJECT
 
-This a Language Translator which translates english sentences to big list of given languages.
+This a Language Translator which translates english sentences to other languages.
 You can check out the Language Details.csv to see the supported languages. 
 
 Overview:
