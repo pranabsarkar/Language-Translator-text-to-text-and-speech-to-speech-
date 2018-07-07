@@ -163,7 +163,7 @@ class tt:
                 print("You said : " + r.recognize_google(audio))
                 translator = Translator()
                 x = translator.translate(r.recognize_google(audio),
-                                         dest=self.str1)  # bn for bengali and hi for hindi en for enflish
+                                         dest=self.str1)  
                 print("Translated text = {}".format(x.text))
 
                 speak = gTTS(x.text, self.str1)
