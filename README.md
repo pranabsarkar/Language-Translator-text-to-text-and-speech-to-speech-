@@ -35,6 +35,10 @@ If you choose the option 3 then :   You can get the details of the author.
 If you choose the option 4 then :   You can exit.
 ______________________________________________________________________________________________________________________________________
 
-speech_recognition,googletrans,gtts,os,pandas are used in this project.
+speech_recognition,googletrans,gtts,os,pandas are used in this project using Python 3.6 and PyCharm IDE.
+______________________________________________________________________________________________________________________________________
+
+The next version will contain a GUI interface of the same project.
+
                                     
   
