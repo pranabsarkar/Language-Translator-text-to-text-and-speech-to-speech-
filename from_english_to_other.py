@@ -188,7 +188,7 @@ class tt:
 
     def about_me(self):
         print("Author : Pranab Sarkar \nContact Number : +91-7001029414\nEmail : sarkarpranab66@gmail.com\nBuild Ver:1.0")
-    def ex(self): #bug in the if else
+    def ex(self): 
         qui()
 
 
